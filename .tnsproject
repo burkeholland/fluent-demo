@@ -1,0 +1,6 @@
+{
+	"id": "org.nativescript.fluentdemo",
+	"tns-ios": {
+		"version": "0.10.0"
+	}
+}
